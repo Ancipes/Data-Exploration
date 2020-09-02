@@ -1,3 +1,2 @@
-# hello-world
-Just the usual stuff.
-I like to learn new things.
+# Auto Data EDA
+Just the usual data exploration and visualization
